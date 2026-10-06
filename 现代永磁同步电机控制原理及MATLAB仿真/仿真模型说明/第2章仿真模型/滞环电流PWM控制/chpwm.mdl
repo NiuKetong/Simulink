@@ -1,0 +1,821 @@
+s="wrapper text_wrapper"><a href="parameters.html" class="corrected_url">Parameters</a></div>
+</div>
+</li><li id="ecoder.signals.html.3" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="signals.html" class="corrected_url">Signals</a></div>
+</div>
+</li><li id="ecoder.block-states.html.4" class="toc_collapsed current_page">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="block-states.html" class="corrected_url">States</a></div>
+</div>
+<ul>
+<li id="ecoder.block-state-storage.html.0" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="block-state-storage.html" class="corrected_url">Block State Storage</a></div>
+</div>
+</li><li id="ecoder.state-objects.html.1" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="state-objects.html" class="corrected_url">State Data Objects</a></div>
+</div>
+</li><li id="ecoder.custom-storage-classes-3.html.2" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="custom-storage-classes-3.html" class="corrected_url">Custom Storage Classes</a></div>
+</div>
+</li></ul>
+</li><li id="ecoder.shared-global-memory.html.5" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="shared-global-memory.html" class="corrected_url">Data Stores</a></div>
+</div>
+</li></ul>
+</li><li id="ecoder.function-and-class-interfaces.html.1" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="function-and-class-interfaces.html" class="corrected_url">Function and Class Interfaces</a></div>
+</div>
+</li><li id="ecoder.file-packaging.html.2" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="file-packaging.html" class="corrected_url">File Packaging </a></div>
+</div>
+</li><li id="ecoder.memory-sections.html.3" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="memory-sections.html" class="corrected_url">Memory Sections</a></div>
+</div>
+</li></ul>
+</li><li id="ecoder.code-generation_code-generation.html.2" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="code-generation_code-generation.html" class="corrected_url">Code Generation</a></div>
+</div>
+</li><li id="ecoder.deployment_deployment.html.3" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="deployment_deployment.html" class="corrected_url">Deployment</a></div>
+</div>
+</li><li id="ecoder.performance_performance.html.4" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="performance_performance.html" class="corrected_url">Performance</a></div>
+</div>
+</li><li id="ecoder.verification-2.html.5" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="verification-2.html" class="corrected_url">Verification</a></div>
+</div>
+</li><li id="ecoder.tool-customization-and-extension.html.6" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="tool-customization-and-extension.html" class="corrected_url">Customization</a></div>
+</div>
+</li><li id="ecoder.tool-qualification-and-certification.html.7" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="tool-qualification-and-certification.html" class="corrected_url">Tool Qualification and Certification</a></div>
+</div>
+</li></ul>
+</li><li id="ecoder.index.html.4" class="">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="../ecoder/ug/embedded-coder-supported-hardware.html" class="corrected_url">Supported Hardware</a></div>
+</div>
+</li></ul>
+</li>
+</ul>
+<!--END OF TOC DATA-->
+</div><!--close_toc_container-->
+</div><!--close_toc_scroll_pane-->
+</div><!--close_toc_container_wrapper-->
+</div>
+</div><!--close_toc_pane-->
+         <div class="page_container">
+            <div class="content_frame">
+               <div class="content_container" id="content_container">
+         
+<div id="search_crumb_container"><div class="docsearch_container">
+<form id="docsearch_form" name="docsearch_form" method="get" action="../templates/searchresults.html">
+<label for="docsearch" class="hidden">Search MATLAB Documentation</label>
+<input type="text" name="qdoc" id="docsearch" class="textfield" tabindex="0" autocomplete="off" value="Search Documentation">
+<input type="submit" name="submitsearch" id="submitsearch" value="Search" class="docsearch_submit">
+<script type="text/javascript">
+         $("input[name='qdoc']").toggleVal({
+            focusClass: "hasFocus"
+         });
+       </script>
+</form>
+</div>
+<div class="breadcrumb_container">
+<div class="breadcrumbs"><ul><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb" class="breadcrumb_first"><a href="../documentation-center.html" itemprop="url"><span itemprop="title">R2014b</span></a></li><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb" class="breadcrumb_product"><a href="index.html" itemprop="url"><span itemprop="title">Embedded Coder</span></a></li><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb"><a href="index.html#c-c-code_generation-from-simulink-models" itemprop="url"><span itemprop="title">Code Generation from Simulink Models</span></a></li><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb"><a href="data-function-and-file-definition.html" itemprop="url"><span itemprop="title">Data, Function, and File Definition</span></a></li><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb" class="breadcrumb_last"><a href="data-representation.html" itemprop="url"><span itemprop="title">Data Representation </span></a></li>
+</ul></div>
+</div>
+
+</div><section id="doc_center_content">
+<h1 itemprop="content title" class="r2014b">States</h1>
+<div class="doc_topic_desc" itemprop="content purpose">Block state naming and storage</div>
+
+
+
+<ul class="unbulleted_list" itemprop="content">
+<li><span class="dcenter_c1title"><a href="block-state-storage.html">Block State Storage</a></span><br/>
+<span class="subcat_desc">Block state storage techniques for code generation<br class="subcat_desc" />
+</span>
+</li>
+<li><span class="dcenter_c1title"><a href="state-objects.html">State Data Objects</a></span><br/>
+<span class="subcat_desc">Create, configure, initialize, and resolve configuration
+conflicts<br class="subcat_desc" />
+</span>
+</li>
+<li><span class="dcenter_c1title"><a href="custom-storage-classes-3.html">Custom Storage Classes</a></span><br/>
+<span class="subcat_desc">Specify how signal is declared, stored, and represented
+in generated code</span>
+</li>
+</ul>
+</section>
+<div class="feedbackblock">Was this topic helpful?
+<input type="button" value="Yes" onClick="openFeedbackWindow('http://www.mathworks.com/programs/bounce_hub_help.html?s_cid=Help_Topic_Survey&amp;surveyParams='+document.location.href+'-YES-R2014b');">
+<input type="button" value="No" onClick="openFeedbackWindow('http://www.mathworks.com/programs/bounce_hub_help.html?s_cid=Help_Topic_Survey&amp;surveyParams='+document.location.href+'-NO-R2014b');">
+</div>
+<!--Last updated: Tue Aug 12 03:19:18 EDT 2014-->
+
+               </div> <!-- close_content_container -->
+             </div> <!-- close_content_frame -->
+           </div> <!--  close_page_container -->
+         
+      <div class="footer_container">
+         <div class="footer">
+            <ul class="footernav">
+               <li class="footernav_trademarks"><a href="MATLAB:web([docroot '/acknowledgments.html'])">Acknowledgments</a></li>
+               <li class="footernav_trademarks"><a href="MATLAB:web([matlabroot '/trademarks.txt'])">Trademarks</a></li>
+               <li class="footernav_patents"><a href="MATLAB:web([matlabroot '/patents.txt'])">Patents</a></li>
+               <li class="footernav_help"><a href="MATLAB:web([matlabroot '/license.txt'])">Terms of Use</a></li>
+            </ul>
+            <div class="copyright">&copy; 1994-2014 The MathWorks, Inc.</div>
+         </div>
+      </div>
+   
+         </div> <!--  close_site_container -->
+         </body>
+</html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="http://www.mathworks.com/help/schema/MathWorksDocPage">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Block Usage</title>
+<link rel="stylesheet" href="docstyle.css" type="text/css">
+  <meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="toctype" itemprop="pagetype" content="cat">
+<meta name="infotype" itemprop="infotype" content="cat" />
+
+<meta name="description" itemprop="description" content="Check blocks for code generation" />
+<script type="text/javascript" src="../includes/product/scripts/jquery/jquery-latest.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/l10n.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/docscripts.js"></script>
+<script type="text/javascript" src="../includes/product/scripts/docscripts.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/mw.toc.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/mw.imagescaling.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/mw.imageanimation.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/mw.breadcrumb.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/jquery.highlight.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/nanoscroller.min.js"></script>
+
+
+
+
+<script type="text/javascript" src="../includes/product/scripts/underscore-min.js"></script>
+<script type="text/javascript" src="../includes/product/scripts/jquery/jquery.toggleval.js"></script>
+<script type="text/javascript" src="../includes/product/scripts/localnav.js"></script>
+<script type="text/javascript" src="../includes/product/scripts/suggest.js"></script>
+<script type="text/javascript">
+            var suggestionsObj;
+            $(function() {
+                var searchField = $('#docsearch');
+                suggestionsObj = new Suggestions(getSuggestions, getMore, searchField);
+            });
+        
+            function getSuggestions() {
+               var text = suggestionsObj.searchField.val();
+               document.location='docsuggestion:' + text;
+            }
+
+            function getMore(type) {
+                var text = suggestionsObj.searchField.val();
+                document.location='docsuggestion:' + type + ':' + text;
+            }
+        </script>
+
+<link href="../includes/product/css/reset.css" rel="stylesheet" type="text/css">
+<link href="../includes/product/css/960.css" rel="stylesheet" type="text/css">
+<link href="../includes/product/css/site5.css" rel="stylesheet" type="text/css">
+<link href="../includes/product/css/doc_center.css" rel="stylesheet" type="text/css">
+<link href="../includes/product/css/doc_center_installed.css" rel="stylesheet" type="text/css">
+<link href="../includes/product/css/doc_center_print.css" rel="stylesheet" type="text/css" media="print">
+<script type="text/javascript" src="../includes/shared/equationrenderer/MathRenderer.js"></script>
+</head>
+<body>
+<div class="site_container site_toc_opened"><div class="toc_pane"><div xmlns:atict="http://www.arbortext.com/namespace/atict">
+<div class="toc_container_wrapper" tabindex="1" style="display:block;">
+<div class="toc_header" lang="en">
+<div class="toc_icon" id="toc.ecoder">
+<a href="doccentertoc.html"></a>
+</div>
+<h3>Contents</h3>
+</div><!--close_toc_header-->
+<div class="toc_scroll_pane">
+<div class="toc_container">
+<!--BEGINNING OF TOC DATA-->
+<div class="toc_doc_center_home">
+<a href="../documentation-center.html">Documentation</a>
+</div>
+<ul>
+<li id="ecoder.index.html" class="toc_collapsed"><div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="index.html" class="corrected_url">Embedded Coder</a></div>
+</div>
+<ul>
+<li id="ecoder.product-fundamentals.html.0" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="product-fundamentals.html" class="corrected_url">Getting Started with Embedded Coder</a></div>
+</div>
+</li><li id="ecoder.examples.html.1" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="examples.html" class="corrected_url">Embedded Coder Examples</a></div>
+</div>
+</li><li id="ecoder.release-notes.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="release-notes.html" class="corrected_url">Release Notes</a></div>
+</div>
+</li>
+<li id="ecoder.functionlist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="functionlist.html" class="corrected_url">Functions</a>
+</div>
+</div>
+</li>
+<li id="ecoder.classeslist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="classeslist.html" class="corrected_url">Classes</a>
+</div>
+</div>
+</li>
+<li id="ecoder.blocklist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="blocklist.html" class="corrected_url">Blocks</a>
+</div>
+</div>
+</li>
+<li id="ecoder.configparamlist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="configparamlist.html" class="corrected_url">Simulink Configuration Parameters</a>
+</div>
+</div>
+</li>
+<li id="ecoder.mdlcheckslist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="mdlcheckslist.html" class="corrected_url">Model Checks</a>
+</div>
+</div>
+</li>
+<li id="ecoder.mdlguidelineslist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="mdlguidelineslist.html" class="corrected_url">Modeling Guidelines</a>
+</div>
+</div>
+</li>
+<li id="ecoder.index.html.2" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="index.html#code-gen-from-matlab-code" class="corrected_url">Code Generation from MATLAB Code</a></div>
+</div>
+</li><li id="ecoder.index.html.3" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="index.html#c-c-code_generation-from-simulink-models" class="corrected_url">Code Generation from Simulink Models</a></div>
+</div>
+<ul>
+<li id="ecoder.model-architecture-and-design.html.0" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="model-architecture-and-design.html" class="corrected_url">Model Architecture and Design</a></div>
+</div>
+<ul>
+<li id="ecoder.modeling.html.0" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="modeling.html" class="corrected_url">Modeling</a></div>
+</div>
+<ul>
+<li id="ecoder.application-considerations.html.0" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="application-considerations.html" class="corrected_url">Application Considerations</a></div>
+</div>
+</li><li id="ecoder.developing-models-that-comply-with-standards-and-guidelines.html.1" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="developing-models-that-comply-with-standards-and-guidelines.html" class="corrected_url">Standards and Guidelines</a></div>
+</div>
+</li><li id="ecoder.model-patterns-for-c-code.html.2" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="model-patterns-for-c-code.html" class="corrected_url">Modeling Patterns for C Code</a></div>
+</div>
+</li><li id="ecoder.scheduling.html.3" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="scheduling.html" class="corrected_url">Scheduling</a></div>
+</div>
+</li><li id="ecoder.supported-products-and-block-usage.html.4" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="supported-products-and-block-usage.html" class="corrected_url">Supported Products and Block Usage</a></div>
+</div>
+<ul>
+<li id="ecoder.block-usage.html.0" class="toc_collapsed current_page">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="block-usage.html" class="corrected_url">Block Usage</a></div>
+</div>
+<ul>
+<li class="toc_collapsed"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper">Model Checks</div></div><ul>
+<li id="ecoder.rtw.ref.embedded-codersimulink-coder-checks.html#btpdhno-1"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper"><a href="../rtw/ref/embedded-codersimulink-coder-checks.html#btpdhno-1" class="corrected_url">Check for blocks not supported by code generation</a></div></div></li>
+<li id="ecoder.ref.embedded-codersimulink-coder-checks.html#btpdhq5-1"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper"><a href="../ecoder/ref/embedded-codersimulink-coder-checks.html#btpdhq5-1" class="corrected_url">Check for blocks not recommended for C/C++ production code
+deployment</a></div></div></li>
+<li id="ecoder.ref.embedded-codersimulink-coder-checks.html#braj1_6-21"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper"><a href="../ecoder/ref/embedded-codersimulink-coder-checks.html#braj1_6-21" class="corrected_url">Identify blocks that generate expensive rounding code</a></div></div></li>
+<li id="ecoder.rtw.ref.embedded-codersimulink-coder-checks.html#braj1_6-19"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper"><a href="../rtw/ref/embedded-codersimulink-coder-checks.html#braj1_6-19" class="corrected_url">Check for blocks that have constraints on tunable parameters</a></div></div></li>
+<li id="ecoder.ref.embedded-codersimulink-coder-checks.html#bsc06fh-1"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper"><a href="../ecoder/ref/embedded-codersimulink-coder-checks.html#bsc06fh-1" class="corrected_url">Check for blocks not recommended for MISRA-C:2004 compliance</a></div></div></li>
+</ul>
+</li>
+<li class="toc_collapsed"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper">Concepts</div></div><ul>
+<li id="ecoder.rtw.ug.supported-products-and-block-usage.html#br5y993-1"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper"><a href="../rtw/ug/supported-products-and-block-usage.html#br5y993-1" class="corrected_url">Simulink Built-In Blocks That Support Code Generation</a></div></div></li>
+<li id="ecoder.rtw.ug.supported-products-and-block-usage.html#bt315mu"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper"><a href="../rtw/ug/supported-products-and-block-usage.html#bt315mu" class="corrected_url">Simulink Block Data Type Support Table</a></div></div></li>
+<li id="ecoder.rtw.ug.supported-products-and-block-usage.html#br5y_cc"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper"><a href="../rtw/ug/supported-products-and-block-usage.html#br5y_cc" class="corrected_url">Block Set Support for Code Generation</a></div></div></li>
+<li id="ecoder." class="current_page"><div class="node_element"><div class="wrapper img_wrapper"></div><div class="wrapper text_wrapper"><a href="" class="corrected_url"></a></div></div></li>
+</ul>
+</li>
+</ul>
+</li><li id="ecoder.embedded-targets-embeddedtargetslib.html.1" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="embedded-targets-embeddedtargetslib.html" class="corrected_url">Blocks for Embedded Targets</a></div>
+</div>
+</li></ul>
+</li><li id="ecoder.modeling-semantics-considerations.html.5" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="modeling-semantics-considerations.html" class="corrected_url">Modeling Semantic Considerations</a></div>
+</div>
+</li></ul>
+</li><li id="ecoder.component-based-modeling.html.1" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="component-based-modeling.html" class="corrected_url">Component-Based Modeling</a></div>
+</div>
+</li><li id="ecoder.configuration.html.2" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="configuration.html" class="corrected_url">Configuring Model Parameters</a></div>
+</div>
+</li><li id="ecoder.verification.html.3" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="verification.html" class="corrected_url">Checking Model and Configuration</a></div>
+</div>
+</li><li id="ecoder.autosar-software-components.html.4" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="autosar-software-components.html" class="corrected_url">AUTOSAR</a></div>
+</div>
+</li></ul>
+</li><li id="ecoder.data-function-and-file-definition.html.1" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="data-function-and-file-definition.html" class="corrected_url">Data, Function, and File Definition</a></div>
+</div>
+</li><li id="ecoder.code-generation_code-generation.html.2" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="code-generation_code-generation.html" class="corrected_url">Code Generation</a></div>
+</div>
+</li><li id="ecoder.deployment_deployment.html.3" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="deployment_deployment.html" class="corrected_url">Deployment</a></div>
+</div>
+</li><li id="ecoder.performance_performance.html.4" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="performance_performance.html" class="corrected_url">Performance</a></div>
+</div>
+</li><li id="ecoder.verification-2.html.5" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="verification-2.html" class="corrected_url">Verification</a></div>
+</div>
+</li><li id="ecoder.tool-customization-and-extension.html.6" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="tool-customization-and-extension.html" class="corrected_url">Customization</a></div>
+</div>
+</li><li id="ecoder.tool-qualification-and-certification.html.7" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="tool-qualification-and-certification.html" class="corrected_url">Tool Qualification and Certification</a></div>
+</div>
+</li></ul>
+</li><li id="ecoder.index.html.4" class="">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="../ecoder/ug/embedded-coder-supported-hardware.html" class="corrected_url">Supported Hardware</a></div>
+</div>
+</li></ul>
+</li>
+</ul>
+<!--END OF TOC DATA-->
+</div><!--close_toc_container-->
+</div><!--close_toc_scroll_pane-->
+</div><!--close_toc_container_wrapper-->
+</div>
+</div><!--close_toc_pane-->
+         <div class="page_container">
+            <div class="content_frame">
+               <div class="content_container" id="content_container">
+         
+<div id="search_crumb_container"><div class="docsearch_container">
+<form id="docsearch_form" name="docsearch_form" method="get" action="../templates/searchresults.html">
+<label for="docsearch" class="hidden">Search MATLAB Documentation</label>
+<input type="text" name="qdoc" id="docsearch" class="textfield" tabindex="0" autocomplete="off" value="Search Documentation">
+<input type="submit" name="submitsearch" id="submitsearch" value="Search" class="docsearch_submit">
+<script type="text/javascript">
+         $("input[name='qdoc']").toggleVal({
+            focusClass: "hasFocus"
+         });
+       </script>
+</form>
+</div>
+<div class="breadcrumb_container">
+<div class="breadcrumbs"><ul><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb" class="breadcrumb_first"><a href="../documentation-center.html" itemprop="url"><span itemprop="title">R2014b</span></a></li><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb" class="breadcrumb_product"><a href="index.html" itemprop="url"><span itemprop="title">Embedded Coder</span></a></li><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb"><a href="index.html#c-c-code_generation-from-simulink-models" itemprop="url"><span itemprop="title">Code Generation from Simulink Models</span></a></li><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb"><a href="model-architecture-and-design.html" itemprop="url"><span itemprop="title">Model Architecture and Design</span></a></li><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb"><a href="modeling.html" itemprop="url"><span itemprop="title">Modeling</span></a></li><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb" class="breadcrumb_last"><a href="supported-products-and-block-usage.html" itemprop="url"><span itemprop="title">Supported Products and Block Usage</span></a></li>
+</ul></div>
+</div>
+
+</div><section id="doc_center_content">
+<h1 itemprop="content title" class="r2014b">Block Usage</h1>
+<div class="doc_topic_desc" itemprop="content purpose">Check blocks for code generation</div>
+
+
+
+<div class="doc_blocksgroup_container"><h2>Model Checks</h2>
+<div class="ref_cluster" itemprop="content">
+<div class="ref_cluster_content">
+<table border="0" cellspacing="0" cellpadding="0"><tr><td class="term"><a href="../rtw/ref/embedded-codersimulink-coder-checks.html#btpdhno-1">Check for blocks not supported by code generation</a></td></tr><tr><td class="term"><a href="../ecoder/ref/embedded-codersimulink-coder-checks.html#btpdhq5-1">Check for blocks not recommended for C/C++ production code
+deployment</a></td></tr><tr><td class="term"><a href="../ecoder/ref/embedded-codersimulink-coder-checks.html#braj1_6-21">Identify blocks that generate expensive rounding code</a></td></tr><tr><td class="term"><a href="../rtw/ref/embedded-codersimulink-coder-checks.html#braj1_6-19">Check for blocks that have constraints on tunable parameters</a></td></tr><tr><td class="term"><a href="../ecoder/ref/embedded-codersimulink-coder-checks.html#bsc06fh-1">Check for blocks not recommended for MISRA-C:2004 compliance</a></td></tr></table></div>
+</div>
+</div>
+<div class="moreabout_container"><h2>Concepts</h2>
+<ul class="unbulleted_list" itemprop="content">
+<li><a href="../rtw/ug/supported-products-and-block-usage.html#br5y993-1">Simulink Built-In Blocks That Support Code Generation</a></li>
+<li><a href="../rtw/ug/supported-products-and-block-usage.html#bt315mu">Simulink Block Data Type Support Table</a></li>
+<li><a href="../rtw/ug/supported-products-and-block-usage.html#br5y_cc">Block Set Support for Code Generation</a></li>
+<li><a name="missinglink"></a></li>
+</ul>
+</div>
+</section>
+<div class="feedbackblock">Was this topic helpful?
+<input type="button" value="Yes" onClick="openFeedbackWindow('http://www.mathworks.com/programs/bounce_hub_help.html?s_cid=Help_Topic_Survey&amp;surveyParams='+document.location.href+'-YES-R2014b');">
+<input type="button" value="No" onClick="openFeedbackWindow('http://www.mathworks.com/programs/bounce_hub_help.html?s_cid=Help_Topic_Survey&amp;surveyParams='+document.location.href+'-NO-R2014b');">
+</div>
+<!--Last updated: Tue Aug 12 03:19:18 EDT 2014-->
+
+               </div> <!-- close_content_container -->
+             </div> <!-- close_content_frame -->
+           </div> <!--  close_page_container -->
+         
+      <div class="footer_container">
+         <div class="footer">
+            <ul class="footernav">
+               <li class="footernav_trademarks"><a href="MATLAB:web([docroot '/acknowledgments.html'])">Acknowledgments</a></li>
+               <li class="footernav_trademarks"><a href="MATLAB:web([matlabroot '/trademarks.txt'])">Trademarks</a></li>
+               <li class="footernav_patents"><a href="MATLAB:web([matlabroot '/patents.txt'])">Patents</a></li>
+               <li class="footernav_help"><a href="MATLAB:web([matlabroot '/license.txt'])">Terms of Use</a></li>
+            </ul>
+            <div class="copyright">&copy; 1994-2014 The MathWorks, Inc.</div>
+         </div>
+      </div>
+   
+         </div> <!--  close_site_container -->
+         </body>
+</html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="http://www.mathworks.com/help/schema/MathWorksDocPage">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Embedded Coder</title>
+<link rel="stylesheet" href="docstyle.css" type="text/css">
+  <meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="toctype" itemprop="pagetype" content="cat">
+<meta name="infotype" itemprop="infotype" content="list" />
+
+<meta name="description" itemprop="description" content="C/C++ code from MATLAB code for embedded systems" />
+<script type="text/javascript" src="../includes/product/scripts/jquery/jquery-latest.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/l10n.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/docscripts.js"></script>
+<script type="text/javascript" src="../includes/product/scripts/docscripts.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/mw.toc.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/mw.imagescaling.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/mw.imageanimation.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/mw.breadcrumb.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/jquery.highlight.js"></script>
+<script type="text/javascript" src="../includes/shared/scripts/nanoscroller.min.js"></script>
+
+
+
+
+<script type="text/javascript" src="../includes/product/scripts/underscore-min.js"></script>
+<script type="text/javascript" src="../includes/product/scripts/jquery/jquery.toggleval.js"></script>
+<script type="text/javascript" src="../includes/product/scripts/localnav.js"></script>
+<script type="text/javascript" src="../includes/product/scripts/suggest.js"></script>
+<script type="text/javascript">
+            var suggestionsObj;
+            $(function() {
+                var searchField = $('#docsearch');
+                suggestionsObj = new Suggestions(getSuggestions, getMore, searchField);
+            });
+        
+            function getSuggestions() {
+               var text = suggestionsObj.searchField.val();
+               document.location='docsuggestion:' + text;
+            }
+
+            function getMore(type) {
+                var text = suggestionsObj.searchField.val();
+                document.location='docsuggestion:' + type + ':' + text;
+            }
+        </script>
+
+<link href="../includes/product/css/reset.css" rel="stylesheet" type="text/css">
+<link href="../includes/product/css/960.css" rel="stylesheet" type="text/css">
+<link href="../includes/product/css/site5.css" rel="stylesheet" type="text/css">
+<link href="../includes/product/css/doc_center.css" rel="stylesheet" type="text/css">
+<link href="../includes/product/css/doc_center_installed.css" rel="stylesheet" type="text/css">
+<link href="../includes/product/css/doc_center_print.css" rel="stylesheet" type="text/css" media="print">
+<script type="text/javascript" src="../includes/shared/equationrenderer/MathRenderer.js"></script>
+</head>
+<body>
+<div class="site_container site_toc_opened"><div class="toc_pane"><div xmlns:atict="http://www.arbortext.com/namespace/atict">
+<div class="toc_container_wrapper" tabindex="1" style="display:block;">
+<div class="toc_header" lang="en">
+<div class="toc_icon" id="toc.ecoder">
+<a href="doccentertoc.html"></a>
+</div>
+<h3>Contents</h3>
+</div><!--close_toc_header-->
+<div class="toc_scroll_pane">
+<div class="toc_container">
+<!--BEGINNING OF TOC DATA-->
+<div class="toc_doc_center_home">
+<a href="../documentation-center.html">Documentation</a>
+</div>
+<ul>
+<li id="ecoder.index.html" class="toc_collapsed current_page"><div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="index.html" class="corrected_url">Embedded Coder</a></div>
+</div>
+<ul>
+<li id="ecoder.product-fundamentals.html.0" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="product-fundamentals.html" class="corrected_url">Getting Started with Embedded Coder</a></div>
+</div>
+</li><li id="ecoder.examples.html.1" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="examples.html" class="corrected_url">Embedded Coder Examples</a></div>
+</div>
+</li><li id="ecoder.release-notes.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="release-notes.html" class="corrected_url">Release Notes</a></div>
+</div>
+</li>
+<li id="ecoder.functionlist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="functionlist.html" class="corrected_url">Functions</a>
+</div>
+</div>
+</li>
+<li id="ecoder.classeslist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="classeslist.html" class="corrected_url">Classes</a>
+</div>
+</div>
+</li>
+<li id="ecoder.blocklist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="blocklist.html" class="corrected_url">Blocks</a>
+</div>
+</div>
+</li>
+<li id="ecoder.configparamlist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="configparamlist.html" class="corrected_url">Simulink Configuration Parameters</a>
+</div>
+</div>
+</li>
+<li id="ecoder.mdlcheckslist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="mdlcheckslist.html" class="corrected_url">Model Checks</a>
+</div>
+</div>
+</li>
+<li id="ecoder.mdlguidelineslist.html">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper">
+<a href="mdlguidelineslist.html" class="corrected_url">Modeling Guidelines</a>
+</div>
+</div>
+</li>
+<li id="ecoder.index.html.2" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="index.html#code-gen-from-matlab-code" class="corrected_url">Code Generation from MATLAB Code</a></div>
+</div>
+</li><li id="ecoder.index.html.3" class="toc_collapsed">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="index.html#c-c-code_generation-from-simulink-models" class="corrected_url">Code Generation from Simulink Models</a></div>
+</div>
+</li><li id="ecoder.index.html.4" class="">
+<div class="node_element">
+<div class="wrapper img_wrapper"></div>
+<div class="wrapper text_wrapper"><a href="../ecoder/ug/embedded-coder-supported-hardware.html" class="corrected_url">Supported Hardware</a></div>
+</div>
+</li></ul>
+</li>
+</ul>
+<!--END OF TOC DATA-->
+</div><!--close_toc_container-->
+</div><!--close_toc_scroll_pane-->
+</div><!--close_toc_container_wrapper-->
+</div>
+</div><!--close_toc_pane-->
+         <div class="page_container">
+            <div class="content_frame">
+               <div class="content_container" id="content_container">
+         
+<div id="search_crumb_container"><div class="docsearch_container">
+<form id="docsearch_form" name="docsearch_form" method="get" action="../templates/searchresults.html">
+<label for="docsearch" class="hidden">Search MATLAB Documentation</label>
+<input type="text" name="qdoc" id="docsearch" class="textfield" tabindex="0" autocomplete="off" value="Search Documentation">
+<input type="submit" name="submitsearch" id="submitsearch" value="Search" class="docsearch_submit">
+<script type="text/javascript">
+         $("input[name='qdoc']").toggleVal({
+            focusClass: "hasFocus"
+         });
+       </script>
+</form>
+</div>
+<div class="breadcrumb_container">
+<div class="breadcrumbs"><ul><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb" class="breadcrumb_first"><a href="../documentation-center.html" itemprop="url"><span itemprop="title">R2014b</span></a></li><li itemscope="" itemtype="http://www.data-vocabulary.org/Breadcrumb" itemprop="breadcrumb" class="breadcrumb_product breadcrumb_last"><a href="index.html" itemprop="url"><span itemprop="title">Embedded Coder</span></a></li></ul>
+</div>
+</div>
+
+</div><h1 itemprop="title" class="r2014b">Blocks in Embedded Coder</h1>
+<div class="switch"><a href="blocklist.html">By Category</a> | Alphabetical List</div>
+<div class="doc_blocksgroup_container">
+<p></p>
+<div class="doc_block_block">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr><td class="term"><a href="../simulink/slref/argumentinport.html">Argument Inport</a></td>
+<td class="description">Argument input port for Simulink Function block</td></tr><tr><td class="term"><a href="../simulink/slref/argumentoutport.html">Argument Outport</a></td>
+<td class="description">Argument output port for Simulink Function block</td></tr><tr><td class="term"><a href="../rtw/ref/asyncinterrupt.html">Async Interrupt</a></td>
+<td class="description">Generate Versa Module Eurocard (VME) interrupt service
+routines (ISRs) that are to execute downstream subsystems or Task
+Sync blocks</td></tr><tr><td class="term"><a href="../rtw/ref/asynchronoustaskspecification.html">Asynchronous Task Specification</a></td>
+<td class="description">Allow for parameter specifications for asynchronous tasks
+associated with root-level Inport blocks that output
+a function-call trigger</td></tr><tr><td class="term"><a href="../ecoder/ref/bytepack.html">Byte Pack</a></td>
+<td class="description">Convert input signals to uint8 vector</td></tr><tr><td class="term"><a href="../ecoder/ref/bytereversal.html">Byte Reversal</a></td>
+<td class="description">Reverse order of bytes in input word</td></tr><tr><td class="term"><a href="../ecoder/ref/byteunpack.html">Byte Unpack</a></td>
+<td class="description">Unpack UDP uint8 input vector into Simulink data
+type values</td></tr><tr><td class="term"><a href="../ecoder/ref/c5000c6000hardwareinterrupt.html">C5000/C6000 Hardware Interrupt</a></td>
+<td class="description">Interrupt Service Routine to handle hardware interrupt
+on C5000 and C6000 processors</td></tr><tr><td class="term"><a href="../ecoder/ref/c5510dskadc.html">C5510 DSK ADC</a></td>
+<td class="description">Configure AIC23 and peripherals to collect data from analog
+jacks and output digital data</td></tr><tr><td class="term"><a href="../ecoder/ref/c5510dskdac.html">C5510 DSK DAC</a></td>
+<td class="description">Configure AIC23 codec and peripherals to send data stream
+to output jack</td></tr><tr><td class="term"><a href="../ecoder/ref/c6000ipconfig.html">C6000 IP Config</a></td>
+<td class="description">Configure Internet Protocol on C6000 targets with
+Ethernet ports</td></tr><tr><td class="term"><a href="../ecoder/ref/c6000tcpipreceive.html">C6000 TCP/IP Receive</a></td>
+<td class="description">Receive message from remote IP interface</td></tr><tr><td class="term"><a href="../ecoder/ref/c6000tcpipsend.html">C6000 TCP/IP Send</a></td>
+<td class="description">Send message to remote IP interface</td></tr><tr><td class="term"><a href="../ecoder/ref/c6000udpreceive.html">C6000 UDP Receive</a></td>
+<td class="description">Receive uint8 vector as UDP message</td></tr><tr><td class="term"><a href="../ecoder/ref/c6000udpsend.html">C6000 UDP Send</a></td>
+<td class="description">Send UDP message to host</td></tr><tr><td class="term"><a href="../ecoder/ref/canpack.html">CAN Pack</a></td>
+<td class="description">Pack individual signals into CAN message</td></tr><tr><td class="term"><a href="../ecoder/ref/canunpack.html">CAN Unpack</a></td>
+<td class="description">Unpack individual signals from CAN messages</td></tr><tr><td class="term"><a href="../ecoder/ref/custommatlabfile.html">Custom MATLAB file</a></td>
+<td class="description">Automatically update active configuration parameters of
+parent model using file containing custom MATLAB code</td></tr><tr><td class="term"><a href="../ecoder/ref/dataobjectwizard.html">Data Object Wizard</a></td>
+<td class="description">Simulink data object wizard for creating potential Simulink data
+objects</td></tr><tr><td class="term"><a href="../ecoder/ref/dspbioshardwareinterrupt.html">DSP/BIOS Hardware Interrupt</a></td>
+<td class="description">Generate Interrupt Service Routine</td></tr><tr><td class="term"><a href="../ecoder/ref/dspbiostask.html">DSP/BIOS Task</a></td>
+<td class="description">Create task that runs as separate DSP/BIOS thread</td></tr><tr><td class="term"><a href="../ecoder/ref/dspbiostriggeredtask.html">DSP/BIOS Triggered Task</a></td>
+<td class="description">Create asynchronously triggered task</td></tr><tr><td class="term"><a href="../ecoder/ref/ertoptimizedforfixedpoint.html">ERT (optimized for fixed-point)</a></td>
+<td class="description">Automatically update active configuration parameters of
+parent model for ERT fixed-point code generation</td></tr><tr><td class="term"><a href="../ecoder/ref/ertoptimizedforfloatingpoint.html">ERT (optimized for floating-point)</a></td>
+<td class="description">Automatically update active configuration parameters of
+parent model for ERT floating-point code generation</td></tr><tr><td class="term"><a href="../simulink/slref/functioncaller.html">Function Caller</a></td>
+<td class="description">Call Simulink or Stateflow function</td></tr><tr><td class="term"><a href="../rtw/ref/generatedsfunction.html">Generated S-Function</a></td>
+<td class="description">Represent model or subsystem as generated S-function code</td></tr><tr><td class="term"><a href="../ecoder/ref/grtdebugforfixedfloatingpoint.html">GRT (debug for fixed/floating-point)</a></td>
+<td class="description">Automatically update active configuration parameters of
+parent model for GRT fixed- or floating-point code generation with
+debugging enabled</td></tr><tr><td class="term"><a href="../ecoder/ref/grtoptimizedforfixedfloatingpoint.html">GRT (optimized for fixed/floating-point)</a></td>
+<td class="description">Automatically update active configuration parameters of
+parent model for GRT fixed- or floating-point code generation</td></tr><tr><td class="term"><a href="../ecoder/ref/hostscireceive.html">Host SCI Receive</a></td>
+<td class="description">Configure host-side serial communications interface to
+receive data from serial port</td></tr><tr><td class="term"><a href="../ecoder/ref/hostscisetup.html">Host SCI Setup</a></td>
+<td class="description">Configure COM ports for host-side SCI Transmit and Receive
+blocks</td></tr><tr><td class="term"><a href="../ecoder/ref/hostscitransmit.html">Host SCI Transmit</a></td>
+<td class="description">Configure host-side serial communications interface to
+transmit data to serial port</td></tr><tr><td class="term"><a href="../ecoder/ref/idletask.html">Idle Task</a></td>
+<td class="description">Create free-running task</td></tr><tr><td class="term"><a href="../ecoder/autosar/invokeautosarserveroperation.html">Invoke AUTOSAR Server Operation</a></td>
+<td class="description">Configure AUTOSAR client port to access Basic Software
+or application software components</td></tr><tr><td class="term"><a href="../ecoder/ref/memoryallocate.html">Memory Allocate</a></td>
+<td class="description">Allocate memory section</td></tr><tr><td class="term"><a href="../ecoder/ref/memorycopy.html">Memory Copy</a></td>
+<td class="description">Copy to and from memory section</td></tr><tr><td class="term"><a href="../ecoder/autosar/modeswitchforinvokeautosarserveroperation.html">Mode Switch for Invoke AUTOSAR Server
+Operation</a></td>
+<td class="description">Toggle AUTOSAR client-server operation subsystem blocks
+between simulation and code generation mode</td></tr><tr><td class="term"><a href="../rtw/ref/modelheader.html">Model Header</a></td>
+<td class="description">Specify custom header code</td></tr><tr><td class="term"><a href="../simulink/slref/model.html">Model</a></td>
+<td class="description">Include model as block in another model</td></tr><tr><td class="term"><a href="../rtw/ref/modelsource.html">Model Source</a></td>
+<td class="description">Specify custom source code</td></tr><tr><td class="term"><a href="../simulink/slref/sfunctionbuilder.html">S-Function Builder</a></td>
+<td class="description">Create S-function from C code that you provide</td></tr><tr><td class="term"><a href="../simulink/slref/simulinkfunction.html">Simulink Function</a></td>
+<td class="description">Function definition used by Function Caller block or Stateflow
+chart</td></tr><tr><td class="term"><a href="../rtw/ref/systemderivatives.html">System Derivatives</a></td>
+<td class="description">Specify custom system derivative code</td></tr><tr><td class="term"><a href="../rtw/ref/systemdisable.html">System Disable</a></td>
+<td class="description">Specify custom system disable code</td></tr><tr><td class="term"><a href="../rtw/ref/systemenable.html">System Enable</a></td>
+<td class="description">Specify custom system enable code</td></tr><tr><td class="term"><a href="../rtw/ref/systeminitialize.html">System Initialize</a></td>
+<td class="description">Specify custom system initialization code</td></tr><tr><td class="term"><a href="../rtw/ref/systemoutputs.html">System Outputs</a></td>
+<td class="description">Specify custom system outputs code</td></tr><tr><td class="term"><a href="../rtw/ref/systemstart.html">System Start</a></td>
+<td class="description">Specify custom system startup code</td></tr><tr><td class="term"><a href="../rtw/ref/systemterminate.html">System Terminate</a></td>
+<td class="description">Specify custom system termination code</td></tr><tr><td class="term"><a href="../rtw/ref/systemupdate.html">System Update</a></td>
+<td class="description">Specify custom system update code</td></tr><tr><td class="term"><a href="../rtw/ref/tasksync.html">Task Sync</a></td>
+<td class="description">Spawn VxWorks task to run code of downstream function-call
+subsystem or Stateflow chart</td></tr><tr><td class="term"><a href="../ecoder/ref/udpreceive.html">UDP Receive</a></td>
+<td class="description">Receive UDP packet</td></tr><tr><td class="term"><a href="../ecoder/ref/udpsend.html">UDP Send</a></td>
+<td class="description">Send UDP message</td></tr></table>
+</div>
+</div>
+
+<div class="feedbackblock">Was this topic helpful?
+<input type="button" value="Yes" onClick="openFeedbackWindow('http://www.mathworks.com/programs/bounce_hub_help.html?s_cid=Help_Topic_Survey&amp;surveyParams='+document.location.href+'-YES-R2014b');">
+<input type="button" value="No" onClick="openFeedbackWindow('http://www.mathworks.com/programs/bounce_hub_help.html?s_cid=Help_Topic_Survey&amp;surveyParams='+document.location.href+'-NO-R2014b');">
+</div>
+<!--Last updated: Tue Aug 12 03:19:18 EDT 2014-->
+
+               </div> <!-- close_content_container -->
+             </div> <!-- close_content_frame -->
+           </div> <!--  close_page_container -->
+         
+      <div class="footer_container">
+         <div class="footer">
+            <ul class="footernav">
+               <li class="footernav_trademarks"><a href="MATLAB:web([docroot '/acknowledgments.html'])">Acknowledgments</a></li>
+               <li class="footernav_trademarks"><a href="MATLAB:web([matlabroot '/trademarks.txt'])">Trademarks</a></li>
+               <li class="footernav_patents"><a href="MATLAB:web([matlabroot '/patents.txt'])">Patents</a></li>
+               <li class="footernav_help"><a href="MATLAB:web([matlabroot '/license.txt'])">Terms of Use</a></li>
+            </ul>
+            <div class="copyri
